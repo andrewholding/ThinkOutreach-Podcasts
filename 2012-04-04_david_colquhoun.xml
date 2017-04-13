@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+						<PodcastGenerator>
+							<episode>
+							<titlePG>
+							<![CDATA[ David Colquhoun ]]>
+							</titlePG>
+							<shortdescPG>
+							<![CDATA[ David Colquhoun's talk from ThinkCon 2011 ]]>
+							</shortdescPG>
+							<longdescPG>
+							<![CDATA[ <p>David Colquhoun is a professor of pharmacology at UCL. His research interests are in single ion channels, both experiments and the underlying stochastic theory. He is also interested in pseudo-scientific nonsense, whether it comes from quacks or from university managers. His hope is that we are beginning to emerge from the last 30 or 40 years of endarkenment, during which wishful-thinking has been an adequate substitute for reason. One reason for the resurgence of common sense is that the Internet has changed the world. Now anyone at all can publish their views at the click of a mouse and blogs can get results in the real world.</p> ]]>
+							</longdescPG>
+							<imgPG></imgPG>
+							<categoriesPG>
+							<category1PG>thinkcon_2011</category1PG>
+							<category2PG></category2PG>
+							<category3PG></category3PG>
+							</categoriesPG>
+							<keywordsPG></keywordsPG>
+							<explicitPG>no</explicitPG>
+							<authorPG>
+							<namePG></namePG>
+							<emailPG></emailPG>
+							</authorPG>
+							</episode>
+							</PodcastGenerator>

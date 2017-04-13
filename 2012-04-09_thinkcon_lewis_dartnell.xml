@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+						<PodcastGenerator>
+							<episode>
+							<titlePG>
+							<![CDATA[ Lewis Dartnell ]]>
+							</titlePG>
+							<shortdescPG>
+							<![CDATA[ Sarah Castor-Perry Interviews Lewis Dartnell ]]>
+							</shortdescPG>
+							<longdescPG>
+							<![CDATA[ <div>'Astrobiology' is a brand new field of science, encompassing research into the origins and limits of life on our own planet, and where life might exist beyond the Earth. But what actually is 'life' and how did it emerge on our own world? What are the most extreme conditions terrestrial life can tolerate? And where in the cosmos might we reasonably expect to find ET?</div> ]]>
+							</longdescPG>
+							<imgPG>2012-04-09_thinkcon_lewis_dartnell.png</imgPG>
+							<categoriesPG>
+							<category1PG>thinkcon_2012</category1PG>
+							<category2PG></category2PG>
+							<category3PG></category3PG>
+							</categoriesPG>
+							<keywordsPG>astrobiology, science, kepler, ET, mars, antartic, life, biology, aliens</keywordsPG>
+							<explicitPG>no</explicitPG>
+							<authorPG>
+							<namePG></namePG>
+							<emailPG></emailPG>
+							</authorPG>
+							</episode>
+							</PodcastGenerator>
